@@ -1,4 +1,4 @@
 
-##MVF-Trans: Multi-view fusion transformer for underwater image enhancement
+## MVF-Trans: Multi-view fusion transformer for underwater image enhancement
 
-#Codes and pre-trained models will be available soon.
+# Codes and pre-trained models will be available soon.
